@@ -5,7 +5,7 @@
 O meu proxecto é desenvolver o sitio web da recén inagurada "Asociacón Sociocultural Entropía".
 
     "Hai uns meses tivemos a sorte de conseguir a cesión de dúas casas abandonadas na parroquia de Oca (A Estrada) Desta cesión nace a Asociación Sociocultural Entropía, un proxecto de dinamización e desenvolvemento do medio rural, que ten entre os seus obxetivos a creación de espazos de encontro e troca de saberes, así coma a rehabilitación e aproveitamento do lugar seguindo a filosofía da permacultura e a bioconstrución. ASC Entropía declárase Ecoloxista, Feminista e Antirracista. Este é un proxecto a longo prazo que está a nacer, polo que medrará cas persoas que participen nel! Ideas e propostas son benvidas!"
- A presidenta de Asc Entropía, Noa Devesa
+            A presidenta de Asc Entropía, Noa Devesa
 
 A Asociación Entropía é un proxecto colaborativo no cal están envoltas moitas persoas con decicacións moi distintas pero cun mesmo obxectivo. Eu dende un principio quixen participar e apoiar ás fundadoras e amigas, e así surxiu esta idea, aunando o proxecto profesional de DAW cos meus proxectos persoais.
 
