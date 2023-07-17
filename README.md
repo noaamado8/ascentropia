@@ -70,10 +70,11 @@ Os requerimentos para a realización deste proxecto van ser esencialmente tecnol
 
 ## **3. Planificación**
 
-|
- | Data de inicio | Duración | Breve descripción |
-| --- | --- | --- | --- |
+
 | Estudo Preliminar | 7.04.2021 | 1 semana | Formado de tres partes (descrición, requerimentos e planificación) recolle a idea do proxecto. |
+
 | Análise | 15.04.2021 | 1 semana | Describe os requirimentos para o sitio web de Entropía, especificando que funcionalidade ofrecerá e de que xeito. |
+
 | Deseño | 22.04.2021 | 1 semana | Deseño dos algoritmos para implementar cada unha das funcións (cun diagrama ou pseudocódigo) |
+
 | Codificación e Probas | 29.04.2021 | 3 semanas | Código do proxecto e probas do mesmo, ambas partes coa metodoloxía utilizada. Especificaránse tamén si se fan cambios nas outras partes. |
