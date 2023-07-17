@@ -1,0 +1,52 @@
+#redes_sociais > a {
+  text-decoration: none;
+  color: black;
+}
+#redes_sociais > a :hover {
+  text-decoration: none;
+  color: darkgrey;
+  text-decoration: none;
+}
+
+#menu {
+  position: sticky;
+  padding: 0px;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+#boton-menu {
+  background-color: #065535;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+}
+#boton-menu :hover {
+  background-color: #93bd8c;
+  text-decoration: none;
+}
+
+#boton-menu-desplegar {
+  width: 100%;
+  text-align: center;
+  display: none;
+  /* background-color: #065535;
+    color: white; */
+  color: #065535;
+  text-decoration: none;
+}
+
+@media (max-width: 540px) {
+  #menu {
+    display: none;
+  }
+
+  #boton-menu-desplegar {
+    display: block;
+  }
+  #boton-menu-desplegar :hover #menu {
+    display: block;
+  }
+}

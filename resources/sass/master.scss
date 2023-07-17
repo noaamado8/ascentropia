@@ -1,0 +1,133 @@
+
+
+
+
+
+#redes_sociais>a{
+
+  text-decoration: none; 
+  color: black;
+
+
+
+
+ :hover{
+  text-decoration: none;
+color: darkgrey;
+
+  
+}
+
+} 
+
+
+
+
+
+
+
+
+
+
+
+#menu {
+
+  position: sticky;
+
+  padding: 0px;
+  list-style-type: none;
+
+  display: flex;
+
+  justify-content: space-around;
+
+
+
+
+}
+
+
+
+
+
+
+#menu-principal{
+
+display: flex;
+
+justify-content: space-around;
+
+background-color: #93bd8c;;
+
+}
+
+#toggler-icon{
+  
+  align-content: center;
+  text-align: center;
+
+
+}
+
+#boton-menu{
+  background-color: #098553;
+  width: 100%;
+
+
+  
+  text-align: center;
+  text-decoration: none;
+
+  color: white;
+
+
+
+ 
+ :hover{
+
+
+    background-color: #93bd8c;
+text-decoration: none;
+    
+ }
+
+
+}
+
+
+
+
+
+#boton-menu-desplegar {
+
+  width: 100%;
+  text-align: center;
+  display: none;
+/* background-color: #065535;
+  color: white; */
+
+  color:#098553;
+text-decoration: none;
+
+}
+
+@media(max-width:540px) {
+
+#menu{
+  display:none
+}
+
+  #boton-menu-desplegar {
+      display: block;
+
+      :hover #menu { 
+        display: block;
+      }
+
+     
+  }
+
+
+
+
+}

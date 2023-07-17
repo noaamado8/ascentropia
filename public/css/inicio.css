@@ -1,0 +1,22 @@
+#slide1 {
+  height: 350px;
+}
+
+#imaxes1 {
+  height: 350px;
+  width: 280px;
+  align-self: center;
+  background-color: rebeccapurple;
+}
+
+#presentacion {
+  text-align: justify;
+}
+#presentacion img {
+  width: 90%;
+  float: middle;
+}
+
+#novas {
+  text-align: center;
+}
