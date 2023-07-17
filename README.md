@@ -1,62 +1,79 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+## **Estudo preliminar**
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## **1. Descrición do proxecto**
 
-## About Laravel
+O meu proxecto é desenvolver o sitio web da recén inagurada "Asociacón Sociocultural Entropía".
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Hai uns meses tivemos a sorte de conseguir a cesión de dúas casas abandonadas na parroquia de Oca (A Estrada) Desta cesión nace a Asociación Sociocultural Entropía, un proxecto de dinamización e desenvolvemento do medio rural, que ten entre os seus obxetivos a creación de espazos de encontro e troca de saberes, así coma a rehabilitación e aproveitamento do lugar seguindo a filosofía da permacultura e a bioconstrución. ASC Entropía declárase Ecoloxista, Feminista e Antirracista. Este é un proxecto a longo prazo que está a nacer, polo que medrará cas persoas que participen nel! Ideas e propostas son benvidas!
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+A presidenta de Asc Entropía, Noa Devesa
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+A Asociación Entropía é un proxecto colaborativo no cal están envoltas moitas persoas con decicacións moi distintas pero cun mesmo obxectivo. Eu dende un principio quixen participar e apoiar ás fundadoras e amigas, e así surxiu esta idea, aunando o proxecto profesional de DAW cos meus proxectos persoais.
 
-## Learning Laravel
+É esencial para a visiblidade e vialbilidade da Asociación ter unha páxina web que recolla toda a información da mesma (actividades, eventos, contacto, participación…) e inclusive que permita a interactuación dos participantes coas organizadoras (facerse socio/a, anotarse as actividades…), dando moita accesibilidade aos usuarios e persoas interesadas, e facilitando toda a actividade e promoción de "Entropía".
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+O obxectivo deste sitio web vai ser entón a promoción da Asociación, así como a xestión de participantes e actividades. Conseguirase a través de todos os servicios webs necesarios para a consulta de información e a interacción das persoas usuarias.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Algunhas das funcionalidades concretas que vai ofrecer a páxina son:
 
-## Laravel Sponsors
+- 'Sobre nós', información xeral acerca da Asociación e as persoas que a conforman.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+- 'Actividades', oferta de todas as actividades da equipa.
+- 'Eventos' especiais e festexos.
+- 'Contacta', para calquera dúbida.
+- 'Faite soci@', para participar nas distintas ofertas da Asociación
+- 'Colabora', para formar parte da equipa e ofrecer actividades ou traballo
+- 'Galería' de fotos e vídeos.
+- 'Incripción' en actividades e eventos
+- Información xeral de contacto (correo, dirección, teléfono....) e redes sociais
+- 'Documentación' cos estatutos oficiais e o aviso legal.
+- 'Doazóns', espazo para as aportacións económicas voluntarias.
 
-### Premium Partners
+### **1.1. Destinatarios**
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
+A páxina vai dirixida a toda a poboación, xa que 'Entropía' está aberta a participación de todos e todas: tanto como persoas destinatarias das actividades (de todas as franxas de idade) como membros activos da asociación, no contexto das inquietudes e bases da mesma.
 
-## Contributing
+O público obxectivo son, polo tanto, persoas voluntarias, grupos ou organizacións similares que queiran colaborar e persoas interesadas en participar das actividades ofertadas.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+### **1.2. Estudo de necesidades**
 
-## Code of Conduct
+Moitas asociacións similares a 'Entropía' funcionan sen sitio web, pero é unha clara desvantaxe ante competidores, xa que é unha ferramenta moi boa para este modelo de organización. Vou poñer por exemplos:
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+A escola de tempo libre Don Bosco, en Santiago de Compostela, ten unha páxina web moi accesible e actualizada. Nela recóllese todas as actividades que ofertan e toda a información relevante, ademais, as participacións e formularios realízanse a través da web e funcionan moi ben deste xeito.
 
-## Security Vulnerabilities
+[https://www.cxdonbosco.org/](https://www.cxdonbosco.org/)
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+Un exemplo en contraposión é o de Galicia Eventos e Ocio, que únicamente dispoñen de redes sociais e páxina de facebook. As súas actividades e información tamén chegan aos destinatarios, aínda que dun xeito máis desorganizado e tamén se crea unha canle de comunicación directa a través do chat. A diferencia e desventaxa disto e que non teñen participacións formais como formularios de rexistro en actividades, e pode ser un método saturado no caso de ter moita demanda.
 
-## License
+[https://es-la.facebook.com/galiciaeocio/](https://es-la.facebook.com/galiciaeocio/)
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+### **1.3. Xustificación do proxecto**
+
+Este proxecto vai ser un dos máximos impulsores da Asociación Sociocultural Entropía, cubrindo as necesidades de promoción e xestión dende o punto de vista da organización. Por outra banda, dende o punto de vista do usuario, cubrirá as necesidades informativa, comunicativa e participativa, dun xeito moi accesible.
+
+### **1.4. Ideas para a súa comercialización**
+
+Trátase dun proxecto colaborativo, sen ánimo de lucro, e sen inversión monetaria inicial. Impulsarase a través de redes sociais de todas as persoas colaboradoras ou que queiran axudar e compartir. A medida que creza a asoaciación, crecerá o meu proxecto e a súa utilidade.
+
+### **1.5. Modelo de negocio**
+
+A aplicación será totalmente gratuita con acceso libre para todos os usuarios. O "negocio" será a Asociación, con opción de facerse socio ou socia ou de anotarse ás distintas actividades ofertadas, todo isto a través da páxina web.
+
+## **2. Requirimentos**
+
+Os requerimentos para a realización deste proxecto van ser esencialmente tecnolóxicos, e os contidos serán os aportados pola directiva da asociación.
+
+- A infraestructura contará cun dominio web, montado nun servidor web, que tamén terá un servidor de bases de datos para xestionar aos participantes das actividades.
+
+- Para o backend, usarei php. Nesta contorna farei principalmente as conexións coas bases de datos, para as que utilizarei o código de MySQL
+- Para o frontend usarei para código base HTML e CSS coa tecnoloxía de Bootstrap. Para a dinamización e funcións específicas da web usarei JavaScript, así como librerías da linguaxe. O deseño será _responsive._
+
+## **3. Planificación**
+
+|
+ | Data de inicio | Duración | Breve descripción |
+| --- | --- | --- | --- |
+| Estudo Preliminar | 7.04.2021 | 1 semana | Formado de tres partes (descrición, requerimentos e planificación) recolle a idea do proxecto. |
+| Análise | 15.04.2021 | 1 semana | Describe os requirimentos para o sitio web de Entropía, especificando que funcionalidade ofrecerá e de que xeito. |
+| Deseño | 22.04.2021 | 1 semana | Deseño dos algoritmos para implementar cada unha das funcións (cun diagrama ou pseudocódigo) |
+| Codificación e Probas | 29.04.2021 | 3 semanas | Código do proxecto e probas do mesmo, ambas partes coa metodoloxía utilizada. Especificaránse tamén si se fan cambios nas outras partes. |
